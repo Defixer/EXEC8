@@ -1,0 +1,5 @@
+#surefire
+#Fri Aug 12 14:11:25 PHT 2016
+user.dir=/home/exist/EXEC9/Employee_Info_System/web
+localRepository=/home/exist/.m2/repository
+basedir=/home/exist/EXEC9/Employee_Info_System/web
